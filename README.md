@@ -28,7 +28,12 @@ This project demonstrates the **4 V's of Big Data** (Volume, Velocity, Variety, 
 * **Environment:** Google Colab / Local Jupyter Notebooks
 
 ## 📸 Screenshots
-*(Upload your dashboard screenshots here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79164163-5a25-4e68-b9c5-0cfd5e475702" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93749212-a612-44ca-ba6d-ebc5ba8df6bb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5724a593-1116-44db-90b3-f9fff71d096b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8833f55a-9c16-4d0e-81d2-16b3178a2536" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef676fee-3a14-400c-a21d-c1df793fc9a3" />
+
 1. **Strategic Roadmap (Forecasting):**
    ![Roadmap](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
 
@@ -50,4 +55,4 @@ This project demonstrates the **4 V's of Big Data** (Volume, Velocity, Variety, 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Developed by [Your Name] - Senior Big Data Architect*
+*Developed by wtfgryz - Senior Big Data Architect*
