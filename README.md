@@ -28,11 +28,16 @@ This project demonstrates the **4 V's of Big Data** (Volume, Velocity, Variety, 
 * **Environment:** Google Colab / Local Jupyter Notebooks
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79164163-5a25-4e68-b9c5-0cfd5e475702" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93749212-a612-44ca-ba6d-ebc5ba8df6bb" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5724a593-1116-44db-90b3-f9fff71d096b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8833f55a-9c16-4d0e-81d2-16b3178a2536" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef676fee-3a14-400c-a21d-c1df793fc9a3" />
+<img width="1660" height="619" alt="image" src="https://github.com/user-attachments/assets/483dfd18-8836-42c2-8ff5-5ddfdc570739" />
+
+<img width="1664" height="666" alt="image" src="https://github.com/user-attachments/assets/83477b11-b81d-40c0-9b36-a48455e28b45" />
+
+<img width="1661" height="664" alt="image" src="https://github.com/user-attachments/assets/83ea1283-38ef-4c39-8d33-0f5f7e7dc89e" />
+
+<img width="1664" height="650" alt="image" src="https://github.com/user-attachments/assets/9f7c137b-c93d-42b3-b71a-030e0672be11" />
+
+<img width="1658" height="646" alt="image" src="https://github.com/user-attachments/assets/42bcede3-0402-4031-8a2b-3be415acf4d2" />
+
 
 1. **Strategic Roadmap (Forecasting):**
    ![Roadmap](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
